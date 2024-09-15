@@ -1,12 +1,10 @@
-t = {}
+"""
+dsfsdf
+dfsdfsdf sdnf
 
-r = []
-
-for i in t:
-    r.append(i)
-
-print(r)
+sdfkjnsdjfnjnndnfsknsndf
+        lksmdkdfmlsmdf
 
 
-d = 2+1
-print(d)
+        
+"""
