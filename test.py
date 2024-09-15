@@ -1,10 +1,5 @@
 def socond_func():
 
+    """three sdkjfjsdnfsd f"""
+
     print("socond")
-
-    """
-    fdgdfgdfgdfgdf
-    """
-
-    d = 2+2
-    print("socond", d)
