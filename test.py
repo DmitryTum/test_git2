@@ -1,10 +1,5 @@
-"""
-dsfsdf
-dfsdfsdf sdnf
-
-sdfkjnsdjfnjnndnfsknsndf
-        lksmdkdfmlsmdf
-
-
-        
-"""
+def socond_func():
+    """
+    fdgdfgdfgdfgdf
+    """
+    print("socond")
