@@ -1,5 +1,3 @@
 def socond_func():
-
-    """three sdkjfjsdnfsd f"""
-
+    """svoi"""
     print("socond")
