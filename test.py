@@ -5,5 +5,9 @@ def socond_func():
 
     c = 'dfgjdfngn'
 
+    #ldfkdksf
+
+    d = 5
+
     d = 2+2
     print("socond", d)
