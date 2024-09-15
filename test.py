@@ -2,4 +2,6 @@ def socond_func():
     """
     fdgdfgdfgdfgdf
     """
-    print("socond")
+
+    d = 2+2
+    print("socond", d)
